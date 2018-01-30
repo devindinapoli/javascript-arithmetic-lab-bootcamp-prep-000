@@ -27,3 +27,7 @@ function dec(a) {
   var decrement = --a
   return decrement 
 }
+
+function makeInt(a) {
+  var 
+}
