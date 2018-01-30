@@ -24,5 +24,6 @@ function inc(a) {
 }
 
 function dec(a) {
-  var decrement 
+  var decrement = --a
+  return decrement 
 }
