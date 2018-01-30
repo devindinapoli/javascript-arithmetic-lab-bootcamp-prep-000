@@ -3,6 +3,6 @@ function add(a,b) {
   return sum 
 }
 
-function subtract(a,b) {
+function (a,b) {
   var sum = a-b
 }
