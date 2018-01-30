@@ -31,3 +31,4 @@ function dec(a) {
 function makeInt(a) {
   var parsed = parseInt(a, 10)
 }
+
