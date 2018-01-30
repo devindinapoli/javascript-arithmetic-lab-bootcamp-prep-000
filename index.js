@@ -30,8 +30,10 @@ function dec(a) {
 
 function makeInt(a) {
   var parsed = parseInt(a, 10)
+  return parsed
 }
 
 function preserveDecimal(a) {
-  var 
+  var decimal = parseFloat(a, 10)
+  return decimal
 }
