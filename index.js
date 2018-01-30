@@ -18,3 +18,6 @@ function divide(a,b) {
   return sum
 }
 
+function increment(a) {
+  var 
+}
