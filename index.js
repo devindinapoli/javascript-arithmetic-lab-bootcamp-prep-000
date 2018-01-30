@@ -18,9 +18,11 @@ function divide(a,b) {
   return sum
 }
 
-function inc(n) {
+function inc(a) {
   var increment = ++a
   return increment
 }
 
-function dec(n)
+function dec(a) {
+  var decrement 
+}
